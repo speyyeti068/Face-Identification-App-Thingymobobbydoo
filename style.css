@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.div_1{
+    float: none;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    color: black;
+    font-size: 17px;
+    box-shadow: 5px 5px 5px gray;
+}
+.heading_div2{
+    font-size: 15px
+}   
